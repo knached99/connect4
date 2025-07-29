@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", sanes-serif;
+  background: #0c0c12;
+  /* background-image: url("https://pbs.twimg.com/media/FSRWDuIXMAAKDcB?format=jpg&name=4096x4096"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
+}
