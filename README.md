@@ -2,7 +2,14 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, clone this github repo by running git clone https://github.com/knached99/connect4.git 
+
+Second, cd into the project repo by running ``` cd connect4 ``` 
+
+Then, install the dependencies using NPM by running ```npm install ``` 
+
+
+Then, run the development server:
 
 ```bash
 npm run dev
